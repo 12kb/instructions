@@ -14,11 +14,11 @@
 
 3. Переходим во вкладку **Консоль** (или в английской версии **Console**).
 
-![image](./chrome-images/3-console-tab.png)
+![image](./chrome-images/console-tab.png)
 
 4. Обновляем страницу. Для этого жмем F5 или кнопку Обновить страницу со стрелочкой наверху справа.
 
-![image](./chrome-images/4-refresh.png)
+![image](./chrome-images/refresh.png)
 
 5. Проделываем все необходимые действия для воспроизведения ошибки.
 
